@@ -1,0 +1,143 @@
+## /var/lib/openwebrx
+[
+    {
+        "name": "EDVE ATIS",
+        "frequency": 134450000,
+        "modulation": "am"
+    },
+    {
+        "name": "EDVE TWR ",
+        "frequency": 120050000,
+        "modulation": "am"
+    },
+    {
+        "name": "Bremen Radar",
+        "frequency": 119490000,
+        "modulation": "am"
+    },
+    {
+        "name": "Bremen Information ",
+        "frequency": 119825000,
+        "modulation": "am"
+    },
+    {
+        "name": "Bremen Radar ",
+        "frequency": 125020000,
+        "modulation": "am"
+    },
+    {
+        "name": "DB0DVR analog",
+        "frequency": 145637500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "DB0DVR analog",
+        "frequency": 145637500,
+        "modulation": "nfm"
+    },
+    {
+        "name": "DB0DVR DMR",
+        "frequency": 438575000,
+        "modulation": "dmr"
+    },
+    {
+        "name": "SIMPLEX BS ",
+        "frequency": 144525000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "ISS APRS ",
+        "frequency": 145825000,
+        "modulation": "packet"
+    },
+    {
+        "name": "ISS VOICE",
+        "frequency": 145800000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "AFU Anruf ",
+        "frequency": 145500000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "DB0DVR DMR",
+        "frequency": 145587500,
+        "modulation": "dmr"
+    },
+    {
+        "name": "DB0DLR D-STAR",
+        "frequency": 439487500,
+        "modulation": "dstar"
+    },
+    {
+        "name": "DB0OI ",
+        "frequency": 438675000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "DB0HSB",
+        "frequency": 439325000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "BUS Gifhorn DMR",
+        "frequency": 153050000,
+        "modulation": "dmr"
+    },
+    {
+        "name": "Betriebsfunk",
+        "frequency": 149125000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "DRF",
+        "frequency": 129900000,
+        "modulation": "am"
+    },
+    {
+        "name": "EDDV ATIS",
+        "frequency": 136575000,
+        "modulation": "am"
+    },
+    {
+        "name": "AFU 38 SSB Runde",
+        "frequency": 144315000,
+        "modulation": "usb"
+    },
+    {
+        "name": "APRS (STANDARD)",
+        "frequency": 144800000,
+        "modulation": "packet"
+    },
+    {
+        "name": "DB0GSH",
+        "frequency": 145675000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "DB0OI 23cm",
+        "frequency": 1298625000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "FREENET BS",
+        "frequency": 149100000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "DB0PTB Digimode",
+        "frequency": 144900000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "DB0OI 23cm",
+        "frequency": 1298625000,
+        "modulation": "nfm"
+    },
+    {
+        "name": "DB0XX",
+        "frequency": 1298350000,
+        "modulation": "nfm"
+    }
+]
