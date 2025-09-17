@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Bremen Radar",
+        "frequency": 119491000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "EDVE_TWR",
+        "frequency": 120050000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "Hannover ATIS",
+        "frequency": 136575000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "Bremen Radar",
+        "frequency": 389325000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "Bremen Upper",
+        "frequency": 134707333,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "EDVE ATIS",
+        "frequency": 134450000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "ISS",
+        "frequency": 145800000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "ISS-APRS",
+        "frequency": 145825000,
+        "modulation": "packet",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "EDDV_TWR",
+        "frequency": 120175000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0TVH-Analaog",
+        "frequency": 439237500,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0DVR Dig",
+        "frequency": 438575000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0TVH Dig",
+        "frequency": 439900000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0ROE",
+        "frequency": 438375000,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0LAM",
+        "frequency": 439475000,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0CEL",
+        "frequency": 439275000,
+        "modulation": "dmr",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0FUS",
+        "frequency": 439200000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0CSH Tetra",
+        "frequency": 438250000,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0SUN Deister",
+        "frequency": 439887500,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0WUR",
+        "frequency": 438550,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "DB0HSB",
+        "frequency": 439325,
+        "modulation": "nfm",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "ETNW_Rdar",
+        "frequency": 389400000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "ETHB_RDR",
+        "frequency": 257800000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "FassBerg Radar",
+        "frequency": 389675000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "ETHB Radar",
+        "frequency": 389450000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "Langen Info (825)",
+        "frequency": 119821500,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "EDWW_Harz",
+        "frequency": 124240000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "Celle Army",
+        "frequency": 315150000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "ETNW Radar",
+        "frequency": 124650120,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    },
+    {
+        "name": "ETHB Radar",
+        "frequency": 124500000,
+        "modulation": "am",
+        "underlying": "",
+        "description": "",
+        "scannable": true
+    }
